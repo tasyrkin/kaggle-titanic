@@ -1,0 +1,8 @@
+#vim
+*swp
+
+#mac
+.DS_Store
+
+#octave
+octave-workspace
